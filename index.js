@@ -9,7 +9,7 @@ const passwordGenerator = () => {
     lib.innerHTML = result.join("");
     return result.join("");
 };
-passwordGenerator(); 
+// passwordGenerator(); 
 
 
 // for (const item of items) {
